@@ -39,12 +39,8 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 ```
 Retail-Data-Mining-Business-Intelligence/
 │
-File / Folder	Description
-Retail Data Mining & Business Intelligence.ipynb	Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, data generalization, and business intelligence analysis using Python.
-Retail Dataset.csv (or your actual dataset name)	Retail transaction dataset used for data cleaning, transformation, exploratory analysis, and business intelligence tasks throughout the project.
-Retail Data Mining & Business Intelligence.pdf (if included)	Supporting document containing the project objectives, assignment questions, and business intelligence requirements implemented in the notebook.
-README.md	Provides complete project documentation including project overview, dataset description, workflow, preprocessing steps, business intelligence concepts, implementation details, and learning outcomes.
-requirements.txt	Contains the Python libraries and dependencies required to execute the Jupyter Notebook successfully.
+
+
 ```
 
 ---
