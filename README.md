@@ -34,19 +34,8 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 
 ---
 
-## Project Structure
+## Repository Structure
 
-```
-Retail-Data-Mining-Business-Intelligence/
-| File / Folder | Description |
-|---------------|-------------|
-| Retail Data Mining & Business Intelligence.ipynb | Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, data generalization, and business intelligence analysis using Python. |
-| `Groceries_dataset (1) (1).csv` | Grocery transaction dataset containing customer purchase records used to identify frequent item combinations |
-| `frequent_pattern_mining_questions.pdf` | Supporting document containing questions and requirements related to frequent pattern mining analysis |
-| `README.md` | Provides complete project documentation including objective, dataset description, analysis workflow, visualizations, insights, and results |
-| `requirements.txt` | Contains required Python packages and dependencies needed to execute the notebook |
-
-```
 | File / Folder                                                    | Description                                                                                                                                                                                                |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Retail Data Mining & Business Intelligence.ipynb`               | Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, data generalization, and business intelligence analysis using Python. |
