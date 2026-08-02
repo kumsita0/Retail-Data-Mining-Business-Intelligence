@@ -42,7 +42,7 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 | `data/`                                            | Contains the datasets used throughout the project.                                                                                                                                    |
 | `data/Retail Dataset.csv`                          | Retail transaction dataset used for data cleaning, transformation, exploratory analysis, and business intelligence tasks.                                                             |
 | `docs/`                                            | Contains supporting project documentation, assignment instructions, reports, and reference materials.                                                                                 |
-| `docs/Project Instructions.pdf`                    | Assignment instructions and project requirements implemented in this notebook. *(Replace with your actual PDF filename.)*                                                             |
+| `docs/Project Instructions.pdf`                    | Project instructions and project requirements implemented in this notebook. *(Replace with your actual PDF filename.)*                                                             |
 | `README.md`                                        | Provides complete project documentation including project overview, dataset description, workflow, implementation details, business intelligence concepts, and learning outcomes.     |
 | `requirements.txt`                                 | Lists the Python libraries and dependencies required to execute the Jupyter Notebook successfully.                                                                                    |
 
