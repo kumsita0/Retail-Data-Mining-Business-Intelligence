@@ -38,7 +38,6 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 
 ```
 Retail-Data-Mining-Business-Intelligence/
-│
 
 
 ```
