@@ -41,8 +41,8 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 | `Retail Data Mining & Business Intelligence.ipynb` | Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, and business intelligence analysis using Python. |
 | `data/`                                            | Contains the datasets used throughout the project.                                                                                                                                    |
 | `data/Retail Dataset.csv`                          | Retail transaction dataset used for data cleaning, transformation, exploratory analysis, and business intelligence tasks.                                                             |
-| `docs/`                                            | Contains supporting project documentation, assignment instructions, reports, and reference materials.                                                                                 |
-| `docs/Project Instructions.pdf`                    | Project instructions and project requirements implemented in this notebook. *(Replace with your actual PDF filename.)*                                                             |
+| `docs/`                                            | Contains supporting project instructions                                                                                |
+| `docs/Data_Mining_Project_Instructions.pdf`                    | Project instructions and project requirements implemented in this notebook. 
 | `README.md`                                        | Provides complete project documentation including project overview, dataset description, workflow, implementation details, business intelligence concepts, and learning outcomes.     |
 | `requirements.txt`                                 | Lists the Python libraries and dependencies required to execute the Jupyter Notebook successfully.                                                                                    |
 
