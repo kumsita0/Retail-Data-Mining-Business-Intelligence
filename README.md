@@ -34,15 +34,17 @@ The notebook follows a step-by-step workflow commonly used in real-world data an
 
 ---
 
-## Repository Structure
+## Repository Structure 
 
-| File / Folder                                                    | Description                                                                                                                                                                                                |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Retail Data Mining & Business Intelligence.ipynb`               | Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, data generalization, and business intelligence analysis using Python. |
-| `Retail Dataset.csv` *(or your actual dataset name)*             | Retail transaction dataset used for data cleaning, transformation, exploratory analysis, and business intelligence tasks throughout the project.                                                           |
-| `Retail Data Mining & Business Intelligence.pdf` *(if included)* | Supporting document containing the project objectives, assignment questions, and business intelligence requirements implemented in the notebook.                                                           |
-| `README.md`                                                      | Provides complete project documentation including project overview, dataset description, workflow, preprocessing steps, business intelligence concepts, implementation details, and learning outcomes.     |
-| `requirements.txt`                                               | Contains the Python libraries and dependencies required to execute the Jupyter Notebook successfully.                                                                                                      |
+| File / Folder                                      | Description                                                                                                                                                                           |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Retail Data Mining & Business Intelligence.ipynb` | Main Jupyter Notebook containing the complete implementation of retail data preprocessing, data transformation, fact table creation, and business intelligence analysis using Python. |
+| `data/`                                            | Contains the datasets used throughout the project.                                                                                                                                    |
+| `data/Retail Dataset.csv`                          | Retail transaction dataset used for data cleaning, transformation, exploratory analysis, and business intelligence tasks.                                                             |
+| `docs/`                                            | Contains supporting project documentation, assignment instructions, reports, and reference materials.                                                                                 |
+| `docs/Project Instructions.pdf`                    | Assignment instructions and project requirements implemented in this notebook. *(Replace with your actual PDF filename.)*                                                             |
+| `README.md`                                        | Provides complete project documentation including project overview, dataset description, workflow, implementation details, business intelligence concepts, and learning outcomes.     |
+| `requirements.txt`                                 | Lists the Python libraries and dependencies required to execute the Jupyter Notebook successfully.                                                                                    |
 
 ---
 
